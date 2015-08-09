@@ -11,7 +11,10 @@ import java.util.Random;
  */
 public class Supplier {
 
-    String[] jokes = {"joke1,","joke2","joke3"};
+    String[] jokes = {"I bet earth makes fun of the other planets for having no life,",
+            "What's the difference between snowmen and snowladies? Snowballs",
+            "How do you make holy water? You boil the hell out of it.",
+    "What did the fish say when he swam into the wall? -- Damn"};
 
     public Supplier() {
 
